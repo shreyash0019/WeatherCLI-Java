@@ -5,7 +5,7 @@ import java.util.Scanner;
 import org.json.JSONObject;
 
 public class WeatherCLI {
-    private static final String API_KEY = "YOUR_API_KEY";
+    private static final String API_KEY = "41e706d4032fcadd3155cc572e92f899";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/weather?q=";
 
     public static void main(String[] args) {
